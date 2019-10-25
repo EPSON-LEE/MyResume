@@ -35,7 +35,7 @@
   - 负责Keep行政系统前端开发（OA HRM 员工关怀）
   - 负责协助infra完善前端开发脚手架（vue cli + iview）、bff
   - 负责Keep内部运维系统端开发（运维平台、压测系统）
-  - 负责Keep内部运维系统维护（Auth、OA-mobile、内测平台、CRM）
+  - 负责Keep内部运维系统维护（OA-mobile、内测平台）
   - 指导新人进行业务开发、知识分享
   - 调研前端工程化
 
