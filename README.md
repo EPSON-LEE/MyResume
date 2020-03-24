@@ -1,8 +1,10 @@
-## 李嘉豪
+### 李嘉豪
 
+- 在线简历地址： [https://github.com/EPSON-LEE/myResume](https://github.com/EPSON-LEE/myResume)
 - Email: 491071291@qq.com
 - 手机: 18695726397
-- [Github](https://github.com/EPSON-LEE)
+- Github: [Epson-Lee](https://github.com/EPSON-LEE)
+- stack overflow: [superyipr](https://stackoverflow.com/users/12251494/superyipr)
 
 ### 教育背景
 
@@ -10,52 +12,54 @@
 
 ### Blog
 
-- [hexo + travis cli](https://epson-lee.github.io/o/)
-
+- [博客 https://epson-lee.github.io/o/](https://epson-lee.github.io/o/)
 ### 技术能力
 
 - 熟练掌握 HTML5、CSS3、JavaScript
-- 了解 rxjs 正在探索如何应用到业务中
 - 了解 CI/CD 开发思想,运用在自己的博客上
 - 熟悉 Webpack、Roll up打包工具、具有前后端分离开发的经验
 - 熟练掌握 git pull rebase flow 和 git pull merge flow
 - 熟练掌握 Gerrit、 Phabricator arcanist 进行 codeReview
 - 具有良好的调试能力、了解基本 linux 命令能使用 mac 独立开发、具备科学上网的能力
 - 熟练使用 React、Vue 技术栈、ES6 进行开发、熟悉 antd-design、element-ui、iview、vant-ui
+- 从做表单的场景扩展到了 FRP 的数据流开发，正在摸索如何将 rxjs 正在探索如何应用到业务中
 
 ### 工作经验
-
 - 2018.07 — 今：**Keep EE  Group| 前端开发**
 
   - Keep 工程效率组，指导新人开发。 负责团队code review、任务拆分、模块拆分。
   - 负责 Keep 信息化办公平台的开发
   - 负责 Keep 运维平台开发
+  - 负责 Keep 测试平台开发（全链路压测平台和业务线前后端代码质量报表）
   - 指导新人进行业务开发、知识分享
   - 调研前端工程化
 
 - 2017.06 — 2018.07：**福建网龙计算机网络信息技术有限公司 | 前端开发**
 
-  - 福建省教育信息统一化平台学情分析部分页面的编写
-  - 教育部-陕西省教育厅学校管理平台
-  - 工程院信息化交付管理系统
+  - 独立开发：工程院信息化交付管理平台
+  - 模块负责：教育部-陕西省教育厅学校管理平台
+  - 参与开发：福建省教育信息统一化平台学情分析模块的开发
 
 ### 主要项目经验
 
-> Keep 信息化办公平台 (2018.07 - 今)
+> Keep 智能信息化办公平台 (2018.07 - 今)
 
-- 项目介绍：
-  - 分为： Keep 权限、Keep 流程引擎、Keep 人力系统、Keep OA （web + H5 + BFF）、Keep SSO 五个系统的开发、维护、部署。
+- 项目：
+  - 线上项目：参与 Keep 2017 用户年度报告 H5 页面的开发。
+  - 行政支持：Keep SSO、Keep 权限、Keep 流程引擎、Keep 流程引擎、Keep CRM、 Keep OA-SOP、Keep。
+  - 人事管理：Keep 人力管理平台、 Keep 员工入职一体化方案。
 
 - 技术栈：
   - vue + vuex + iview + Echarts
 
 - 项目难点：
+  - 负责平台下所有系统的开发、部署、上线、codeReview。
   - 来到 Keep 负责的第一个项目，面对新组人员不稳定、PM经验不足、需求不稳定的情况下保持了良好的适应能力。
-  - 流程引擎：基于 bpmn-js 进行定制化开发，完成了流程引擎的前端部分。可视化进行审批线的搭建，包含（审批、通过、拒绝、加签、转签、会签）六种操作模式。
+  - 流程引擎：参与流程引擎的技术选型，基于 bpmn-js 进行定制化开发。可视化进行审批线的搭建，包含（审批、通过、拒绝、加签、转签、会签）六种操作模式。
   - 从零开始开发人力、财务、行政、业务方向攻击三十多套表单、其中每个表单都包括保存草稿、变更、审批、详情、打印、导入、导出、权限管理八个功能点。在面对长流程、大量的表单联动场景和需求快速变更情况下保证了代码的模块化和较高的可维护性。
 
 - 沉淀和收获：
- - 沉淀出 iview-json-schema-form 针对扁平没有数据交互的表单可以通过简单的 json 配置快速生成表单。
+ - 沉淀出 [iview-json-schema-form](https://github.com/EPSON-LEE/vue-iview-form) 针对扁平没有数据交互的表单可以通过简单的 json 配置快速生成表单。
  - 跟踪业界先进的表单处理方案[formily](), 接触到了 FRP 的编程思想。
 
 > 协助 Keep 架构组
@@ -67,17 +71,17 @@
 - 沉淀和收获
   - 了解内部体系化建设的基础设施：SSO、cmsProxy、auth-jwt
 
-> Keep 运维信息化平台
+> Keep 运维信息化闭环平台
 
 - 项目介绍:
-  - 管理目前公司所有的机器、服务、集群，使得传统的运维靠吼的方式走上信息化。
-  - 包含机器监控、成本计算、运维工单申请、扩容等四个大类功能。
+  - 以服务为出发点，来操作包括监控读写，报警添加，资源管理，流程处理，权限管理、费用计算等功能的 Paas 平台。
   
 - 技术栈：
   - vue + vuex + iview + Echarts
 
 - 项目难点：
-  - 监控页面不属于传统的表单页面，联动关系、交互逻辑复杂，接触到了 vuex-orm 处理复杂的数据关系。 输出博客 [前端项目中使用 vuex orm](https://epson-lee.github.io/o/2019/11/19/vuex-orm/)
+
+  - 监控页面不属于传统的表单页面，包含了非常个性化的联动关系、交互逻辑复杂，接口不健全。接触到了 vuex-orm 处理复杂的数据关系。 输出到博客 [前端项目中使用 vuex orm](https://epson-lee.github.io/o/2019/11/19/vuex-orm/)
   - 由于设计问题，监控监控页面常常需要前端对一个 7m json 进行解析渲染出图。使用了 web worker 技术进行处理，从之前的页面卡死提升到不到 1s 出图。
 
 - 沉淀和收获
@@ -88,7 +92,7 @@
 
 - 项目地址：http://fj.101.com/wjt/fj/index
 - 项目介绍:
-  - 主要负责其中学情分析模块的四个页面
+  - 该项目开发时间长、技术栈广而杂（从 angular1.x ~ react 0.14 主要负责其中学情分析模块七个页面
 - 技术栈：
   - 项目开发人员
   - react 技术栈 、HighCharts
@@ -129,7 +133,7 @@
 - 项目介绍:
   - 使用最新版本、主要进行测试尝鲜
 - 主要技术栈：
-  - 使用 Grid 布局
+  - 使用 CSSS3 Grid 布局
   - webpack 4.1.0
   - 测试 React 模块中的各种模式并应用在项目中、eg: Hight-order Component
   - ReactV16 中的新特性、context、componengDidCatch、fiber
