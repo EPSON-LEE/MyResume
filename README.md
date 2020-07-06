@@ -1,8 +1,8 @@
 ### 李嘉豪
 
 - 在线简历地址： [https://github.com/EPSON-LEE/myResume](https://github.com/EPSON-LEE/myResume)
-- Email: 491071291@qq.com
-- 手机: 18695726397
+- Email: leejiahao199506@gmail.com
+- 手机: 13082529394
 - Github: [Epson-Lee](https://github.com/EPSON-LEE)
 - stack overflow: [superyipr](https://stackoverflow.com/users/12251494/superyipr)
 
@@ -13,6 +13,7 @@
 ### Blog
 
 - [博客 https://epson-lee.github.io/o/](https://epson-lee.github.io/o/)
+
 ### 技术能力
 
 - 熟练掌握 HTML5、CSS3、JavaScript
@@ -25,12 +26,16 @@
 - 从做表单的场景扩展到了 FRP 的数据流开发，正在摸索如何将 rxjs 正在探索如何应用到业务中
 
 ### 工作经验
-- 2018.07 — 今：**Keep EE  Group| 前端开发**
+
+- 2020.05 — 2020.06：**顺丰同城 供应链业务组| 前端开发**
+
+  - 负责 OMS 系统 2.0 的开发
+
+- 2018.07 — 2020.05：**Keep EE Group| 前端开发**
 
   - Keep 工程效率组，指导新人开发。 负责团队code review、任务拆分、模块拆分。
   - 负责 Keep 信息化办公平台的开发
-  - 负责 Keep 运维平台开发
-  - 负责 Keep 测试平台开发（全链路压测平台和业务线前后端代码质量报表）
+  - 负责 Keep 全链路运维平台开发
   - 指导新人进行业务开发、知识分享
   - 调研前端工程化
 
@@ -42,7 +47,7 @@
 
 ### 主要项目经验
 
-> Keep 智能信息化办公平台 (2018.07 - 今)
+> Keep 智能信息化办公平台 (2018.07 - 2020.05)
 
 - 项目：
   - 线上项目：参与 Keep 2017 用户年度报告 H5 页面的开发。
@@ -69,6 +74,7 @@
   - 负责协助架构组进行前端工程化建设，参与基于 iview-admin 的 web 脚手架的维护和开发。
 
 - 沉淀和收获
+
   - 了解内部体系化建设的基础设施：SSO、cmsProxy、auth-jwt
 
 > Keep 运维信息化闭环平台
@@ -155,15 +161,6 @@
 > Web 方向：
 
 - 在两份工作中都遇到了大量的表单联动场景、目前在调研根据json-schema处理表单需求的业务场景，近期一直在调研[uform](https://github.com/alibaba/uform)
-
-- 在前端工程化方面，根据[蚂蚁金服的前端框架和工程化实践](https://github.com/sorrycc/blog/issues/85?from=timeline&isappinstalled=0)思考，自己作为一个业务开发如何结合 electron + node 降低开发人员开发成本提升开发体验。
-
-- 作为内部项目来讲、无论是用户量还是性能、稳定性要求都不是是很高、所以希望参与开发一个对外的项目中去，并且在保证业务稳定的同时能使用到更加先进的技术和工具。
-
-> 未来的工作
-
-- 能够接触到不限于 Web 端的丰富的前端开发形态，小程序、Hybrid App、Node，通过业务来驱动技术成长。
-- 能跟踪业界的一些最新的思想，比如继 sass pass 后的 fass 开发方式、wasm。
 
 > 自己业余的规划
 
